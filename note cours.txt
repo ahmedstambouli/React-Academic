@@ -1,0 +1,31 @@
+chouf el fondamontalle js and java ?
+
+ES6:protocolle js jab 12 7aja jdida kima el array function w let const ...
+
+React:bibilioteque js open source construire interface utilisateur pour applicatiom singele page application [spa]
+
+salesforce:a3mel a3lih recherche
+Ec2:7awel tefhmo belhy 
+VM:fel microsoft
+
+objectif rapide et  simple 
+
+DOM virtuel  != DOM real  ==> yet3ada b 3 mara7el eli hoouma : lawj fel google
+
+jsx:appele js xml raw lazem yetkteb fi west div 
+
+composonts:
+prop :hewa eli bech y5alina na7kiw m3a 2 componet
+fama class componet w function componet: chouf el far9 binathom 
+
+hooks:hewa el class componet
+
+useeffect ==> [] vs [varaible]====> ken jatte m3ebiya raw ywali ya3ml refreche auto
+
+
+bable w el webpack 
+bable :hewa compilator de js qui transformet jsx en js normale
+webpack :hewa module bundel hwa ya5o el file js css html  w ya3ml plusieur module w y7ader lel page navigateur 
+npx ():tools bech tajem tsob des pack hewa excuter les package et  les structure de project 
+
+!!!! importonte: fama hono js a3ml a3lih vue 
